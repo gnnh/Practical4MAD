@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical 4 MAD</string>
+    <string name="name">harry</string>
+    <string name="bio"> hello world</string>
+</resources>
